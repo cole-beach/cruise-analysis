@@ -23,8 +23,3 @@ The dataset used in this project is simulated, including:
 
 ### Customer Satisfaction by Destination
 ![Satisfaction by Destination](visuals/satisfaction_by_destination.png)
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cruise-analysis.git
